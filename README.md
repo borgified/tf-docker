@@ -2,7 +2,7 @@ use terraform to set up docker containers (similar to docker-compose)
 
 tested on macOS
 
-1. get [terraform](https://www.terraform.io/downloads.html)
+1. get [terraform](https://www.terraform.io/downloads.html) and [docker](https://www.docker.com/community-edition)
 2. clone this repo `git clone https://github.com/borgified/tf-docker.git`
 3. cd tf-docker
 4. tf init
